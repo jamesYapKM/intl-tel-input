@@ -22,7 +22,7 @@
     "formatting"
   ],
   "license": "MIT",
-  "author": "Jack O'Connor (http://jackocnr.com)",
+  "author": "James Yap",
   "devDependencies": {
     "@babel/core": "^7.1.0",
     "@babel/preset-env": "^7.1.0",
@@ -66,7 +66,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackocnr/intl-tel-input.git"
+    "url": "https://github.com/jamesYapKM/intl-tel-input.git"
   },
   "homepage": "https://intl-tel-input.com",
   "scripts": {
